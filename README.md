@@ -1,5 +1,10 @@
 ### Hi there 👋
-
+<div>
+<a href = "https://www.linkedin.com/in/gustavo-fonseca-451692215/">
+  <p align = "center" > LinkedIn </p>
+  <p align = "center" > <img height = "180dpi" src = "https://github-readme-stats.vercel.app/api?username=GustavoFeliciano&count_private=true&show_icons=true&theme=dark&title_color=F5C451&text_color=6BA2E0&icons_color=8AF095&border_color=8AF095&disable_animations=false&" > </p>
+    <p align = "center" > <img height = "180dpi" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=GustavoFeliciano"> </p>
+</div>
 <!--
 **GustavoFeliciano/GustavoFeliciano** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
