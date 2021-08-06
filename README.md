@@ -77,5 +77,4 @@
   <img height = "30dp" width = "40dp" src = "https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg">
   </p>
   </div>
-  ![Snake animation](https://github.com/GustavoFeliciano/GustavoFeliciano/blob/main/.github/workflows/blank.yml)
 
