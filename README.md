@@ -76,5 +76,8 @@
   <img height = "30dp" width = "40dp" src = "https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg">
   <img height = "30dp" width = "40dp" src = "https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg">
   </p>
-  </div
+  </div>
+  <div>
+  ![Snake animation](https://github.com/GustavoFeliciano/GustavoFeliciano/blob/output/github-contribution-grid-snake.svg)
+  </div>
 
