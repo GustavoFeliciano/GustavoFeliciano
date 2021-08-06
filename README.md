@@ -78,6 +78,6 @@
   </p>
   </div>
   <div>
-  ![Snake animation](https://github.com/GustavoFeliciano/GustavoFeliciano/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/GustavoFeliciano/GustavoFeliciano/blob/main/.github/workflows/blank.yml)
   </div>
 
