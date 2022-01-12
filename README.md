@@ -1,19 +1,15 @@
 
 <div>
   
-  <p>Hello there, I'm Gustavo Feliciano Fonseca from Brasil, I born in Mococa a countryside city, I learn about programmation has one year and half.</p>
-  <p>Olá pessoal, eu sou Gustavo Feliciano Fonseca, sou do Brasil, nasci numa cidade do interior chamada Mococa, eu aprendo programação faz um ano e meio.</p>
+  <p>Hello there, I'm Gustavo Feliciano Fonseca from Brasil, I born in a countryside city called Mococa, I learn about programmation has two years.</p>
+  <p>Olá pessoal, eu sou Gustavo Feliciano Fonseca, sou do Brasil, nasci numa cidade do interior chamada Mococa, eu aprendo programação faz dois anos.</p>
   
   </div>
 <div>
   <ul>
-    <li>
-     <p>🔭 I’m currently working on an mobile app called "FindMyPhone", a integrator project with more two friends.</p>
-     <p>🔭 No momento estou trabalhando em um aplicativo móvel chamado "FindMyPhone", um projeto integrador com mais dois amigos.</p>
-      </li>
       <li>
-      <p>🌱 I’m currently learning Java Android.</p>
-      <p>🌱 No momento estou estudando Java para Android.</p>
+      <p>🌱 I’m currently learning Java Android and JS.</p>
+      <p>🌱 No momento estou estudando Java para Android e JS.</p>
       </li>
       <li>
         <p>👯 I’m not looking to collaborate yet.</p>
