@@ -31,9 +31,11 @@
               </li>   
     </ul>
   </div>
-<div height = "180dp">
-  <img align = "left" height = "180dp" width = "autocomplete" src = "https://github-readme-stats.vercel.app/api?username=GustavoFeliciano&count_private=true&show_icons=true&theme=dark&title_color=F5C451&text_color=6BA2E0&icons_color=8AF095&border_color=8AF095&disable_animations=false" >
-  <img align = "right" height = "180dp" width = "autocomplete" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=GustavoFeliciano&count_private=true&show_icons=true&theme=dark&title_color=F5C451&text_color=6BA2E0&icons_color=8AF095&border_color=8AF095&disable_animations=false">
+<div align = "center">
+  <img align = "center" height = "autocomplete" width = "autocomplete" src = "https://github-readme-stats.vercel.app/api?username=GustavoFeliciano&count_private=true&show_icons=true&theme=dark&title_color=F5C451&text_color=6BA2E0&icons_color=8AF095&border_color=8AF095&disable_animations=false" >
+</div>
+<div align = "center">
+  <img align = "center" height = "180dp" width = "autocomplete"  src = "https://github-readme-stats.vercel.app/api/top-langs/?username=GustavoFeliciano&count_private=true&show_icons=true&theme=dark&title_color=F5C451&text_color=6BA2E0&icons_color=8AF095&border_color=8AF095&disable_animations=false">
 </div>
 <div style = "display: inline_block">
   <div>
