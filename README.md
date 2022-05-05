@@ -36,12 +36,14 @@
   <img align = "right" height = "180dp" width = "autocomplete" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=GustavoFeliciano&count_private=true&show_icons=true&theme=dark&title_color=F5C451&text_color=6BA2E0&icons_color=8AF095&border_color=8AF095&disable_animations=false">
 </div>
 <div style = "display: inline_block">
-  <p align = "center">
-  Languages and technologies that I used or I have to learning in the moment:<br>
-  </p>
-  <p align = "center">
-  Linguagens e tecnologias que já entrei em contato ou estou estudando no momento:
-  </p>
+  <div>
+    <p align = "center">
+    Languages and technologies that I used or I have to learning in the moment:<br>
+    </p>
+    <p align = "center">
+    Linguagens e tecnologias que já entrei em contato ou estou estudando no momento:
+    </p>
+  </div>  
   <p align = "center">
   <img height = "30dp" width = "40dp" src = "https://github.com/devicons/devicon/blob/master/icons/android/android-original.svg">
   <img height = "30dp" width = "40dp" src = "https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-original.svg">
