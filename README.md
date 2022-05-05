@@ -4,7 +4,7 @@
   <p>Hello there, I'm Gustavo Feliciano Fonseca from Brasil, I born in a countryside city called Mococa, I learn about programmation has two years.</p>
   <p>Olá pessoal, eu sou Gustavo Feliciano Fonseca, sou do Brasil, nasci numa cidade do interior chamada Mococa, eu aprendo programação faz dois anos.</p>
   
-  </div>
+</div>
 <div>
   <ul>
       <li>
@@ -30,14 +30,18 @@
                 <a href = "https://www.linkedin.com/in/gustavo-fonseca-451692215/"> LinkedIn</a></p>
               </li>   
     </ul>
-  </div>
+</div>
+
 <div align = "center">
   <img align = "center" height = "autocomplete" width = "autocomplete" src = "https://github-readme-stats.vercel.app/api?username=GustavoFeliciano&count_private=true&show_icons=true&theme=dark&title_color=F5C451&text_color=6BA2E0&icons_color=8AF095&border_color=8AF095&disable_animations=false" >
 </div>
+
 <div align = "center">
   <img align = "center" height = "180dp" width = "autocomplete"  src = "https://github-readme-stats.vercel.app/api/top-langs/?username=GustavoFeliciano&count_private=true&show_icons=true&theme=dark&title_color=F5C451&text_color=6BA2E0&icons_color=8AF095&border_color=8AF095&disable_animations=false">
 </div>
+
 <div style = "display: inline_block">
+  
   <div>
     <p align = "center">
     Languages and technologies that I used or I have to learning in the moment:<br>
@@ -45,7 +49,8 @@
     <p align = "center">
     Linguagens e tecnologias que já entrei em contato ou estou estudando no momento:
     </p>
-  </div>  
+  </div> 
+  
   <p align = "center">
   <img height = "30dp" width = "40dp" src = "https://github.com/devicons/devicon/blob/master/icons/android/android-original.svg">
   <img height = "30dp" width = "40dp" src = "https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-original.svg">
@@ -66,5 +71,5 @@
   <img height = "30dp" width = "40dp" src = "https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg">
   <img height = "30dp" width = "40dp" src = "https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg">
   </p>
-  </div>
+</div>
 
