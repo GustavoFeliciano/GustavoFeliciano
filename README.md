@@ -46,6 +46,7 @@
   <p align = "center">
   <img height = "30dp" width = "40dp" src = "https://github.com/devicons/devicon/blob/master/icons/android/android-original.svg">
   <img height = "30dp" width = "40dp" src = "https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-original.svg">
+    <img height = "30dp" width = "40dp" src = "https://github.com/devicons/devicon/blob/master/icons/kotlin/kotlin-original.svg">
   <img height = "30dp" width = "40dp" src = "https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg">
   <img height = "30dp" width = "40dp" src = "https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg">
   <img height = "30dp" width = "40dp" src = "https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain.svg">
