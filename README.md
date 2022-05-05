@@ -8,17 +8,9 @@
 <div>
   <ul>
       <li>
-      <p>🌱 I’m currently learning Java Android and JS.</p>
-      <p>🌱 No momento estou estudando Java para Android e JS.</p>
+      <p>🌱 I’m currently learning Kotlin to Android and C#.</p>
+      <p>🌱 No momento estou estudando Kotlin para Android e C#.</p>
       </li>
-      <li>
-        <p>👯 I’m not looking to collaborate yet.</p>
-        <p>👯 Eu não estou procurando uma colaboração ainda.</p>
-        </li>
-          <li>
-            <p>💬 Ask me about basic of Java Android and somethings about logic programming.</p>
-            <p>💬 Pergunte me sobre básico de Java para Android e algumas coisas sobre lógica de programação.</p>
-            </li>
             <li>
               <p>📫 How to reach me: 
                 <a href = "mailto:gustavo08_fonseca@outlook.com?subject='Care of Gustavo'">gustavo08_fonseca@outlook.com</a>, 
