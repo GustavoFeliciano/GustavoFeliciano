@@ -1,8 +1,9 @@
 
 <div>
-  
+  <p>--- Está sessão está em obras ---</p>
   <p>Hello there, I'm Gustavo Feliciano Fonseca from Brasil, I born in a countryside city called Mococa, I learn about programmation has two years.</p>
-  <p>Olá pessoal, eu sou Gustavo Feliciano Fonseca, sou do Brasil, nasci numa cidade do interior chamada Mococa, eu aprendo programação faz dois anos.</p>
+  <p>Olá sou o Gustavo, tenho 18 anos, desde 2020 tenho estudado a área desenvolvimento, comecei com o curso técnico de Análise e desenvolvimento de sistemas (ADS) na ETEC Zona leste, dali em diante ando praticando meus projetos pessoais. Esse espaço no git hub tem objetivo ser um espaço menos formal, mas ainda de apoio sobre meu currículo e experiências na área, caso você recrutador quer um espaço mais formal, sugiro entrar no meu perfil do <a href="">LinkedIn</a>, onde achará os links dos projetos no git hub, ou apenas navegar pelos projetos remotos na nuvem por aqui. Se também quiser outra opção sobre algumas certificações e por onde estou nos meus estudos, poderá acessar meu site pessoal com todo meus portifólio *disponível em breve*. Caso continue por aqui, esteja ciente de ser um espaço pessoal com as minhas experiências sendo um autoditata com projetos pessoais.</p>
+  <p>Minha história realmente começa com meus oito anos, onde já era introduzidos no mundo dos jogos, porém um dia que não me lembro bem, fiquei apaixonado e queria "criar jogos", foi então que eu sempre cresci com esse sonho continua em novas atualizações...</p>
   
 </div>
 <div>
