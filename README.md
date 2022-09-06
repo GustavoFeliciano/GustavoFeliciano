@@ -1,27 +1,27 @@
 
 <div>
-  <p>--- Está sessão está em obras ---</p>
-  <p>Hello there, I'm Gustavo Feliciano Fonseca from Brasil, I born in a countryside city called Mococa, I learn about programmation has two years.</p>
-  <p>Olá sou o Gustavo, tenho 18 anos, desde 2020 tenho estudado a área desenvolvimento, comecei com o curso técnico de Análise e desenvolvimento de sistemas (ADS) na ETEC Zona leste, dali em diante ando praticando meus projetos pessoais. Esse espaço no git hub tem objetivo ser um espaço menos formal, mas ainda de apoio sobre meu currículo e experiências na área, caso você recrutador quer um espaço mais formal, sugiro entrar no meu perfil do <a href="">LinkedIn</a>, onde achará os links dos projetos no git hub, ou apenas navegar pelos projetos remotos na nuvem por aqui. Se também quiser outra opção sobre algumas certificações e por onde estou nos meus estudos, poderá acessar meu site pessoal com todo meus portifólio *disponível em breve*. Caso continue por aqui, esteja ciente de ser um espaço pessoal com as minhas experiências sendo um autoditata com projetos pessoais.</p>
-  <p>Minha história realmente começa com meus oito anos, onde já era introduzidos no mundo dos jogos, porém um dia que não me lembro bem, fiquei apaixonado e queria "criar jogos", foi então que eu sempre cresci com esse sonho continua em novas atualizações...</p>
-  
+  <p>Olá sou o Gustavo, tenho 18 anos, desde 2020 tenho estudado a área desenvolvimento, comecei com o curso 'técnico de Análise e desenvolvimento de sistemas' na ETEC Zona leste, dali em diante ando praticando meus projetos pessoais.
+  <p>Atualmente estou trabalhando por meio de projetos freelancers e a procura de um trabalho fixo.<p>
+  <p>Aqui você recrutador ou cliente, poderá verificar os projetos públicos que obtive experiência nessa jornada de aprendizado acadêmico.<p>
+  <p>---------- English Version ----------</p>
+  <p>Hi there, My name's Gustavo, I'm Eighteen. started my studies in first half of 2020 with the curse 'systems analysis and development technician' in the institution ETEC Zona leste, after this I'm practing with my personal projects.
+  <p>Actually I'm working with freelancers work and searching for a steady job. <p>
+  <p>For now, you can verify my public projects that I had experience in this jorney of academic studies<p>
 </div>
 <div>
   <ul>
-      <li>
-      <p>🌱 I’m currently learning Kotlin to Android and C#.</p>
-      <p>🌱 No momento estou estudando Kotlin para Android e C#.</p>
-      </li>
-            <li>
-              <p>📫 How to reach me: 
-                <a href = "mailto:gustavo08_fonseca@outlook.com?subject='Care of Gustavo'">gustavo08_fonseca@outlook.com</a>, 
-                <a href = "mailto:gufonseca2004@gmail.com?subject='Care of Gustavo'">gufonseca2004@gmail.com</a> or 
-                <a href = "https://www.linkedin.com/in/gustavo-fonseca-451692215/"> LinkedIn</a></p>
-              <p>📫 Como chegar até mim: 
-                <a href = "mailto:gustavo08_fonseca@outlook.com?subject='Aos cuidados de Gustavo'">gustavo08_fonseca@outlook.com</a>, 
-                <a href = "mailto:gufonseca2004@gmail.com?subject='Aos cuidados de Gustavo'">gufonseca2004@gmail.com</a> or 
-                <a href = "https://www.linkedin.com/in/gustavo-fonseca-451692215/"> LinkedIn</a></p>
-              </li>   
+    <li>
+      <p>📫 How to reach me: 
+        <a href = "mailto:gustavo08_fonseca@outlook.com?subject='Care of Gustavo'">gustavo08_fonseca@outlook.com</a>, 
+        <a href = "mailto:gufonseca2004@gmail.com?subject='Care of Gustavo'">gufonseca2004@gmail.com</a> or 
+        <a href = "https://www.linkedin.com/in/gustavo-fonseca-451692215/"> LinkedIn</a>
+        <a href = ""> Instagram</a></p>
+      <p>📫 Como chegar até mim: 
+        <a href = "mailto:gustavo08_fonseca@outlook.com?subject='Aos cuidados de Gustavo'">gustavo08_fonseca@outlook.com</a>, 
+        <a href = "mailto:gufonseca2004@gmail.com?subject='Aos cuidados de Gustavo'">gufonseca2004@gmail.com</a> or 
+        <a href = "https://www.linkedin.com/in/gustavo-fonseca-451692215/"> LinkedIn</a>
+        <a href = ""> Instagram</a></p>
+      </li>   
     </ul>
 </div>
 
@@ -37,7 +37,7 @@
   
   <div>
     <p align = "center">
-    Languages and technologies that I used or I have to learning in the moment:<br>
+    Languages and technologies that I used or I'm learning in the moment:<br>
     </p>
     <p align = "center">
     Linguagens e tecnologias que já entrei em contato ou estou estudando no momento:
