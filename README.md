@@ -5,7 +5,7 @@
   <p>Aqui você recrutador ou cliente, poderá verificar os projetos públicos que obtive experiência nessa jornada de aprendizado acadêmico.<p>
   <ul>
     <li>
-      <p>📫 How to reach me: 
+      <p>📫 Como chegar até mim: 
         <a href = "mailto:gustavo08_fonseca@outlook.com?subject='Care of Gustavo'">gustavo08_fonseca@outlook.com</a>, 
         <a href = "mailto:gufonseca2004@gmail.com?subject='Care of Gustavo'">gufonseca2004@gmail.com</a> or 
         <a href = "https://www.linkedin.com/in/gustavo-fonseca-451692215/"> LinkedIn</a>
