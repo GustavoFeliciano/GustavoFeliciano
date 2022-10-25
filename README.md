@@ -6,7 +6,7 @@
   <p>---------- English Version ----------</p>
   <p>Hi there, My name's Gustavo, I'm Eighteen. started my studies in first half of 2020 with the curse 'systems analysis and development technician' in the institution ETEC Zona leste, after this I'm practing with my personal projects.
   <p>Actually I'm working with freelancers work and searching for a steady job. <p>
-  <p>For now, you can verify my public projects that I had experience in this jorney of academic studies<p>
+  <p>For now, you can verify my public projects that I had experience in this journey of academic studies<p>
 </div>
 <div>
   <ul>
