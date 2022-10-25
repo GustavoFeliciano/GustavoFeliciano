@@ -1,11 +1,11 @@
 
 <div>
-  <p>Olá sou o Gustavo, tenho 18 anos, desde 2020 tenho estudado a área desenvolvimento, comecei com o curso 'técnico de Análise e desenvolvimento de sistemas' na ETEC Zona leste, dali em diante ando praticando meus projetos pessoais.
+  <p>Olá sou o Gustavo, tenho 18 anos, desde 2020 tenho estudado a área desenvolvimento, comecei com o curso técnico de 'Análise e desenvolvimento de sistemas' no 'Centro Paula Souza', dali em diante ando praticando meus projetos pessoais.
   <p>Atualmente estou trabalhando por meio de projetos freelancers e a procura de um trabalho fixo.<p>
   <p>Aqui você recrutador ou cliente, poderá verificar os projetos públicos que obtive experiência nessa jornada de aprendizado acadêmico.<p>
   <p>---------- English Version ----------</p>
-  <p>Hi there, My name's Gustavo, I'm Eighteen. started my studies in first half of 2020 with the curse 'systems analysis and development technician' in the institution ETEC Zona leste, after this I'm practing with my personal projects.
-  <p>Actually I'm working with freelancers work and searching for a steady job. <p>
+  <p>Hi there, My name's Gustavo, I'm Eighteen. started my studies in first half of 2020 with the curse 'systems analysis and development technician' in the institution 'Centro Paula Souza', after this I'm practing with my personal projects.
+  <p>Actually I'm working with freelancer works and searching for a steady job. <p>
   <p>For now, you can verify my public projects that I had experience in this journey of academic studies<p>
 </div>
 <div>
