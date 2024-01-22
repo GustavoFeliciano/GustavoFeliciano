@@ -11,7 +11,7 @@
         <a href = "mailto:gustavo08_fonseca@outlook.com?subject='Care of Gustavo'">gustavo08_fonseca@outlook.com</a>, 
         <a href = "mailto:gufonseca2004@gmail.com?subject='Care of Gustavo'">gufonseca2004@gmail.com</a> or 
         <a href = "https://www.linkedin.com/in/gustavo-fonseca-451692215/"> LinkedIn</a>
-        <a href = ""> Instagram</a></p>
+        <a href = "https://www.instagram.com/_gfeliciano26?igsh=MTl3N2ZpMjY2MHEy"> Instagram</a></p>
       </li>   
     </ul>
   <p>---------- English Version ----------</p>
@@ -24,7 +24,7 @@
         <a href = "mailto:gustavo08_fonseca@outlook.com?subject='Care of Gustavo'">gustavo08_fonseca@outlook.com</a>, 
         <a href = "mailto:gufonseca2004@gmail.com?subject='Care of Gustavo'">gufonseca2004@gmail.com</a> or 
         <a href = "https://www.linkedin.com/in/gustavo-fonseca-451692215/"> LinkedIn</a>
-        <a href = ""> Instagram</a></p>
+        <a href = "https://www.instagram.com/_gfeliciano26?igsh=MTl3N2ZpMjY2MHEy"> Instagram</a></p>
       </li>   
     </ul>
 </div>
