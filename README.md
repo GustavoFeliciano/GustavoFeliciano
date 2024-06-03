@@ -1,7 +1,7 @@
 
 <div>
   <p>Na área de desenvolvimento há 4 anos, me apaixonei pela liberdade criativa que ela me disponibiliza, podendo criar absolumente qualquer solução para um problema. Meu foco se instaura em aplicativos nativos para Android e desenvolvimentos de jogos usando a engine Unity. Tenho conhecimentos em áreas web, como HTML5, CSS3, JS e frameworks de PHP.
-  <p>Em 2020 iniciei o curso de Análise e desenvolvimento de sistemas (ADS) pelo Centro Paula Souza, onde tive o primeiro contato com TI, apartir dai produzi projetos acadêmicos e pessoais, visando o aprendizado e crescimento profissional.<p>
+  <p>Em 2020 iniciei o curso de Análise e desenvolvimento de sistemas (ADS) pelo Centro Paula Souza, onde tive o primeiro contato com a área de TI, apartir dai produzi projetos acadêmicos e pessoais, visando o aprendizado e crescimento profissional.<p>
   <p>No período de 2023, concluí o serviço militar obrigatório, trabalhando no Colégio Militar de São Paulo, na área administrativa e logística, sendo responsável encarregado de materiais do colégio, manuseando documentos oficiais e materiais de posse da instuição.</p>
   <p>Pretendo ingressar no ensino superior de análise e desenvolvimento de sistemas no segundo semestre de 2024, ampliando minha gama de conhecimento na área. Atualmente atuo com desenvolvimento de sistemas autônomo e freelancer, sigo aberto para novas vagas</p>
   <p>Aqui você recrutador ou cliente, poderá verificar os projetos públicos que obtive experiência nessa jornada de aprendizado acadêmico.<p>
