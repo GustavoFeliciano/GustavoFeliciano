@@ -15,7 +15,7 @@
       </li>   
     </ul>
   <p>---------- English Version ----------</p>
-  <p>Hi there, My name's Gustavo, I'm Eighteen. started my studies in first half of 2020 with the curse 'systems analysis and development technician' in the institution 'Centro Paula Souza', after this I'm practing with my personal projects.
+  <p>Hi there, My name's Gustavo, I'm Twenty. started my studies in first half of 2020 with the curse 'systems analysis and development technician' in the institution 'Centro Paula Souza', after this I'm practing with my personal projects.
   <p>Actually I'm working with freelancer works and searching for a steady job. <p>
   <p>For now, you can verify my public projects that I had experience in this journey of academic studies<p>
   <ul>
@@ -27,22 +27,18 @@
         <a href = "https://www.instagram.com/_gfeliciano26?igsh=MTl3N2ZpMjY2MHEy"> Instagram</a></p>
       </li>   
     </ul>
-</div>
-  
-  <div align = "center">
-    <img align = "center" height = "180dp" width = "autocomplete"  src = "https://github-readme-stats.vercel.app/api/top-langs/?                                          username=GustavoFeliciano&count_private=true&show_icons=true&theme=dark&title_color=F5C451&text_color=6BA2E0&icons_color=8AF095&border_color=8AF095&disable_animations=fals  e">
+<div aling = "center" height = "900" width = "400dp">
+  <div align = "center" height = "autocomplete" width = "autocomplete">
+    <img align = "center" height = "180dp" width = "autocomplete"  src = "https://github-readme-stats.vercel.app/api/top-langs/?username=GustavoFeliciano&count_private=true&show_icons=true&theme=dark&title_color=F5C451&text_color=6BA2E0&icons_color=8AF095&border_color=8AF095&disable_animations=false">
   </div>
-
-<div style = "display: inline_block">
-  
-  <div>
-    <p align = "center">
-    Languages and technologies that I used or I'm learning in the moment:<br>
-    </p>
-    <p align = "center">
-    Linguagens e tecnologias que já entrei em contato ou estou estudando no momento:
-    </p>
-  </div> 
+</div>
+<div>
+  <p align = "center">
+  Languages and technologies that I used or I'm learning in the moment:<br>
+  </p>
+  <p align = "center">
+  Linguagens e tecnologias que já entrei em contato ou estou estudando no momento:
+  </p>
   
   <p align = "center">
   <img height = "30dp" width = "40dp" src = "https://github.com/devicons/devicon/blob/master/icons/android/android-original.svg">
@@ -66,4 +62,3 @@
   <img height = "30dp" width = "40dp" src = "https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg">
   </p>
 </div>
-
