@@ -29,11 +29,11 @@
     </ul>
 </div>
 
-<div align = "center">
+<div align = "left">
   <img align = "center" height = "autocomplete" width = "autocomplete" src = "https://github-readme-stats.vercel.app/api?username=GustavoFeliciano&count_private=true&show_icons=true&theme=dark&title_color=F5C451&text_color=6BA2E0&icons_color=8AF095&border_color=8AF095&disable_animations=false" >
 </div>
 
-<div align = "center">
+<div align = "right">
   <img align = "center" height = "180dp" width = "autocomplete"  src = "https://github-readme-stats.vercel.app/api/top-langs/?username=GustavoFeliciano&count_private=true&show_icons=true&theme=dark&title_color=F5C451&text_color=6BA2E0&icons_color=8AF095&border_color=8AF095&disable_animations=false">
 </div>
 
